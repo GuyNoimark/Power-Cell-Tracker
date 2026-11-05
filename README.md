@@ -61,7 +61,3 @@ npm start
 ```
 
 Plug in the Arduino before starting. The app opens full screen. To build an installer for your OS, run `npm run make`.
-
-## Team
-
-Built by ORBIT 1690 students, with [Noam Prag](https://github.com/NoamPrag). I led the project and built the Arduino logic and the app.
