@@ -61,3 +61,5 @@ npm start
 ```
 
 Plug in the Arduino before starting. The app opens full screen. To build an installer for your OS, run `npm run make`.
+
+Built with [Noam Prag](https://github.com/NoamPrag).
